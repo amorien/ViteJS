@@ -15,7 +15,7 @@ const count = ref(0)
     <button type="button" @click="count++">count is {{ count }}</button>
     <p>
       Edit
-      <code>components/HelloWorld.vue</code> to test HMR
+      <code>components/HelloWorld.vue</code> to test.  Powered by URM Stores.
     </p>
   </div>
 
@@ -27,10 +27,10 @@ const count = ref(0)
   </p>
   <p>
     Install
-    <a href="https://github.com/vuejs/language-tools" target="_blank">Volar</a>
-    in your IDE for a better DX
+    <a href="https://github.com/vuejs/language-tools" target="_blank">Vue IDE Language Tools</a>
+    for best user experience.
   </p>
-  <p class="read-the-docs">Click on the Vite and Vue logos to learn more</p>
+  <p class="read-the-docs">Click on the Vite and Vue logos to learn about this framework.</p>
 </template>
 
 <style scoped>
