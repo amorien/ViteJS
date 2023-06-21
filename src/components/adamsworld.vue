@@ -15,7 +15,7 @@ const count = ref(0)
     <button type="button" @click="count++">count is {{ count }}</button>
     <p>
       Edit
-      <code>components/adamsworld.vue</code> to test.  Powered by URM Stores.
+      <code>components/adamsworld.vue</code> to test.  Low-code Web 3.0 turn-key Docker application developed for scalability, seamlessness and interoperability backwards compatible with cloud-based technologies. 
     </p>
   </div>
 
@@ -31,6 +31,9 @@ const count = ref(0)
     for best user experience.
   </p>
   <p class="read-the-docs">Click on the Vite and Vue logos to learn about this framework.</p>
+  <br>
+  <div><p>Copyright 2023 URM Stores by Adam Morien</p>
+All rights reserved.</div>
 </template>
 
 <style scoped>
