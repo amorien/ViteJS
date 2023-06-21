@@ -11,7 +11,7 @@ import adamsworld from './components/adamsworld.vue'
       <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
     </a>
   </div>
-  <HelloWorld msg="Vite + Vue" />
+  <adamsworld msg="Vite + Vue" />
 </template>
 
 <style scoped>
