@@ -15,7 +15,9 @@ const count = ref(0)
     <button type="button" @click="count++">count is {{ count }}</button>
     <p>
       Edit
-      <code>components/adamsworld.vue</code> to test.  Low-code Web 3.0 turn-key Docker application developed for scalability, seamlessness and interoperability backwards compatible with cloud-based technologies. 
+      <code>components/adamsworld.vue</code> to test.  Low-code Web 3.0 Docker application developed for scalability and seamlessness.  This is a dockerized turn-key Web Application backwards compatible with Web 1.0 - Web 3.0 W3C cloud-based technologies.  
+       <h2>Stay current and secure. </h2>
+      This out of the box AI is scalable with cutting-edge framework, mitigating the need to overhaul and modernize business processes as W3C Web standards evolve.
     </p>
   </div>
 
